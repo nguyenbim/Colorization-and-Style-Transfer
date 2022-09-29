@@ -3,7 +3,6 @@
 
 link model: https://drive.google.com/file/d/1HbBlhSZOlJNQ_uveVP0xoD7Xx2v4CyOJ/view?usp=sharing
 
-run code 
 # install requirements
 pip install -r requirements.txt
 
