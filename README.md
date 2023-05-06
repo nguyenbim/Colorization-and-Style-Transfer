@@ -14,6 +14,10 @@ python font_end.py
 
 streamlit run font_end.py
 
+
+# Demo colorization
+![jpg](resource_images/flower.jpg)
+
 # Acknowledge
 This project is done by 5-mem group.
 Link to the root project of group: https://gitlab.com/lehaiduongbmt2/machine_learning_vinbigdata
