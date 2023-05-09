@@ -1,7 +1,7 @@
 # Colorization and Style Transfer
  Project Machine learning in AI training course Vinbigdata. Working in group to make an end-to-end system to colorize gray image, then apply style transfer.
 
-link model: https://drive.google.com/file/d/1HbBlhSZOlJNQ_uveVP0xoD7Xx2v4CyOJ/view?usp=sharing
+link model: <a href="https://drive.google.com/file/d/1HbBlhSZOlJNQ_uveVP0xoD7Xx2v4CyOJ/view?usp=sharing"> models </a>
 
 # install requirements
 pip install -r requirements.txt
