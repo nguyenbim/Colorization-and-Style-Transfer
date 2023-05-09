@@ -42,4 +42,3 @@ streamlit run font_end.py
 
 # Acknowledge
 This project is done by 5-mem group.
-Link to the root project of group: https://gitlab.com/lehaiduongbmt2/machine_learning_vinbigdata
